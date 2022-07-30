@@ -1,0 +1,83 @@
+/*****************************Tag Selectoin**************************/
+body{
+  width: 1440px;
+  background-color: #f3eae3;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+
+img{
+  height: 449px;
+  float: left;
+  margin-right: 30px;
+  font-weight: 700;
+  border-radius: 10px 0 0 10px;
+}
+
+h1{
+    font-family: 'Fraunces', serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 700;
+    color: #272829;
+
+}
+
+h2{
+    font-family: 'Fraunces', serif;
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 25px;
+    color: #407f6a;
+    margin-bottom: 20px;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 2;
+  font-weight: 500;
+  color: #8d8b94;
+}
+
+a{
+  margin-top: 20px;
+}
+/*****************************Class Selectoin**************************/
+.attribution{
+  width: 594px;
+  height: 449px;
+  background-color: #ffffff;
+  position:relative;
+  margin-top: 150px;
+  margin-left: 450px;
+  border-radius: 10px;
+
+}
+
+
+.old-price{
+  display: inline-block;
+  margin-left: 30px;
+  text-decoration: line-through;
+}
+
+.first-p{
+  padding-top: 20px;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+  color: #78777d;
+}
+
+.last-h1{
+  margin-bottom: 15px;
+}
+
+.btn{
+  background: #1a4031;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 12px 70px 12px 70px;
+  cursor: pointer;
+}
