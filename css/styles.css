@@ -81,3 +81,7 @@ a{
   padding: 12px 70px 12px 70px;
   cursor: pointer;
 }
+
+.btn:before{
+  content:"/f07a"
+}
